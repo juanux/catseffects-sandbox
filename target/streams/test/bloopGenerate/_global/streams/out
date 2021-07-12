@@ -1,0 +1,4 @@
+[debug] [cats-effects-playgroud-test] Classpath dependencies List()
+[debug] [cats-effects-playgroud-test] Dependencies from configurations List(cats-effects-playgroud)
+[debug] Bloop wrote the configuration of project 'cats-effects-playgroud-test' to '/Users/juanmorales/source/cats-effects-playground/cats-effects-playgroud/.bloop/cats-effects-playgroud-test.json'
+[success] Generated .bloop/cats-effects-playgroud-test.json

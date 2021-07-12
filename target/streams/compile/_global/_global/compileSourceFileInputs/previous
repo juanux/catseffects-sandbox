@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.6":{"hashes":[["/Users/juanmorales/source/cats-effects-playground/cats-effects-playgroud/src/main/scala/com/de/playground/Main.scala","15ab8b0427c89978651257b3551cf7f814a8c1d8"]],"lastModifiedTimes":[]}}]
